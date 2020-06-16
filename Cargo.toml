@@ -1,0 +1,8 @@
+[package]
+name = "raylib_texture_waves"
+version = "0.1.0"
+authors = ["Sorrien"]
+edition = "2018"
+
+[dependencies]
+raylib = "1.0.1"
