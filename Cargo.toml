@@ -5,4 +5,4 @@ authors = ["Sorrien"]
 edition = "2018"
 
 [dependencies]
-raylib = "1.0.1"
+raylib = "3.7.0"
